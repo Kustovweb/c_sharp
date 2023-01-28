@@ -18,5 +18,4 @@ if (max < c)
   max = c;
 }
 
-
 Console.WriteLine($"Максимальное число: {max}");

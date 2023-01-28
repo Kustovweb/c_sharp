@@ -19,6 +19,7 @@ else if (a < b)
 
 }
 else
+
 {
   Console.WriteLine($"Числа {a} и {b} равны");
 }
