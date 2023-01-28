@@ -1,4 +1,5 @@
 ﻿// Задача 2
+
 Console.WriteLine("Введите первое число");
 long a = Convert.ToInt64(Console.ReadLine());
 
