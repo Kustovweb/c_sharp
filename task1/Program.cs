@@ -6,6 +6,7 @@ Console.WriteLine("Введите второе число");
 long b = Convert.ToInt64(Console.ReadLine());
 
 
+
 if (a > b)
 {
   Console.WriteLine("Максимальное число: " + a);
