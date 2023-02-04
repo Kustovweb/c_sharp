@@ -7,3 +7,4 @@ while (i <= num)
   Console.WriteLine($"{i}");
   i += 2;
 }
+
