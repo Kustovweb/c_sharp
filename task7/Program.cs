@@ -1,4 +1,3 @@
-﻿// Задача 15
 Console.Clear();
 
 Console.WriteLine("Введите цифру >>>");
@@ -13,7 +12,3 @@ else
 {
   Console.WriteLine("Нет");
 }
-*/
-
-double b = 0.1 + 0.2;
-Console.WriteLine($"{b:f}");
