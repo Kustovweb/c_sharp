@@ -1,4 +1,5 @@
 ﻿// Задача 15
+//
 Console.Clear();
 
 Console.WriteLine("Введите цифру >>>");
