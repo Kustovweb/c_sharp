@@ -13,8 +13,8 @@ int column = int.Parse(ReadLine());
 int[,] mass = GetArray(M, N);
 PrintArray(mass);
 
-WriteLine(CheckValue(GetNumValue(row, column, mass)) 
-    ? "Ваше число: >>> " + GetNumValue(row, column, mass) 
+WriteLine(CheckValue(GetNumValue(row, column, mass))
+    ? "Ваше число: >>> " + GetNumValue(row, column, mass)
     : "Число не найдено");
 
 
